@@ -1,6 +1,5 @@
 ### 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aligtb&show_icons=true&theme=radical)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aligtb&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 
 <!--
 **aligtb/aligtb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
