@@ -11,6 +11,11 @@
 - **Other**: Java, Android development
 
 ### 🏆 Achievements & Certifications
+- Generative AI: The Evolution of Thoughtful Online Search
+- Streamlining Your Work with Microsoft Copilot
+- Learning Microsoft 365 Copilot for Work
+- Ethics in the Age of Generative AI
+- Django Web Framework
 - Preparing for **CompTIA A+** certification
 
 
