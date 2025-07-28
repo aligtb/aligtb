@@ -19,7 +19,7 @@
 
 ### 📬 Let's Connect!
 - [GitHub](https://github.com/aligtb)
-- [LinkedIn](https://www.linkedin.com/in/aligtb/)
+- [LinkedIn](https://www.linkedin.com/in/ali-gatabi/)
 
 ---
 
