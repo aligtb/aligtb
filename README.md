@@ -16,7 +16,6 @@
 - Learning Microsoft 365 Copilot for Work
 - Ethics in the Age of Generative AI
 - Django Web Framework
-- Preparing for **CompTIA A+** certification
 
 
 ### 🌱 Interests & Hobbies
